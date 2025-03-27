@@ -1,10 +1,10 @@
-## 📟 The code of HLTVSG
+## 📟 
 
-The MATLAB code of the paper ''Hyperspectral Image Denoising Based on Hyper-Laplacian Total Variation in Spectral Gradient Domain''. If you use this code, please cite this [Paper](https://ieeexplore.ieee.org/abstract/document/10918724).
+The MATLAB code of the paper 'Hyperspectral Image Denoising Based on Hyper-Laplacian Total Variation in Spectral Gradient Domain'. If you use this code, please cite this [Paper](https://ieeexplore.ieee.org/abstract/document/10918724).
 
 
 
-## 📝 Corrections
+## 📝
 
 A typesetting error was found in the published version of the paper:
 
